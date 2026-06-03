@@ -57,7 +57,8 @@
 | Project | Stack | Live |
 |---|---|---|
 | RMAST Portfolio | Next.js · MongoDB · Cloudinary | [🔗 Live](https://rmaststudio.com) |
-| [Your other project] | [Stack] | 🔗 Coming Soon |
+| [Remotage] | [Next.js , Express.js , Mongodb] | 🔗 Coming Soon |
+| [Mazaya Pharmacy] | [Next.js , Express.js , Mongodb] | (https://mazayapharma.com/en) |
 
 ---
 
