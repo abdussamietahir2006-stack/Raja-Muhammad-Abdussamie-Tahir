@@ -40,16 +40,8 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdussamietahir2006-stack&show_icons=true&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=52b788&text_color=c9d1d9&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdussamietahir2006-stack&layout=compact&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=c9d1d9" />
-
-<img src="https://streak-stats.demolab.com?user=abdussamietahir2006-stack&hide_border=true&background=0d1117&ring=52b788&fire=52b788&currStreakLabel=52b788&sideLabels=52b788&dates=c9d1d9&stroke=52b788" />
-
-</div>
-
+> 🌱 Just getting started — stats loading as commits grow.
+> Check back soon for the full graph!
 ### 🚀 Featured Projects
 
 | Project | Stack | Live |
