@@ -42,11 +42,11 @@
 
 <div align="center">
 
-![Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdussamietahir2006-stack&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=07130f&title_color=52b788&icon_color=52b788&text_color=e8f5ec)
+![Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdussamietahir2006-stack&show_icons=true&hide_border=true&bg_color=07130f&title_color=52b788&icon_color=52b788&text_color=e8f5ec)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdussamietahir2006-stack&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=07130f&title_color=52b788&text_color=e8f5ec)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdussamietahir2006-stack&layout=compact&hide_border=true&bg_color=07130f&title_color=52b788&text_color=e8f5ec)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdussamietahir2006-stack&theme=chartreuse-dark&hide_border=true&background=07130f&ring=52b788&fire=52b788&currStreakLabel=52b788)
+![GitHub Streak](https://streak-stats.demolab.com?user=abdussamietahir2006-stack&hide_border=true&background=07130f&ring=52b788&fire=52b788&currStreakLabel=52b788&sideLabels=52b788&dates=e8f5ec&stroke=52b788)
 
 </div>
 
