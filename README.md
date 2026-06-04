@@ -46,8 +46,8 @@
 
 | Project | Stack | Live |
 |---|---|---|
-| RMAST Portfolio | Next.js · MongoDB · Cloudinary | [🔗 Live](https://rmaststudio.com) |
-| [Remotage] | [Next.js , Express.js , Mongodb] | 🔗 Coming Soon |
+| RMAST Portfolio | Next.js · MongoDB · Cloudinary | https://rmast-studio.vercel.app/ |
+| [Remotage] | [Next.js , Express.js , Mongodb] | https://www.remotage.com/ |
 | [Mazaya Pharmacy] | [Next.js , Express.js , Mongodb] | (https://mazayapharma.com/en) |
 
 ---
