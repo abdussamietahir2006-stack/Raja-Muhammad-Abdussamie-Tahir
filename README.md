@@ -59,15 +59,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdussamietahir2006-stack&show_icons=true&theme=dark&bg_color=07130f&title_color=52b788&icon_color=52b788&text_color=e8f5ec&border_color=52b788&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdussamietahir2006-stack&show_icons=true&theme=dark&bg_color=0d1117&title_color=52b788&icon_color=52b788&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdussamietahir2006-stack&layout=compact&theme=dark&bg_color=07130f&title_color=52b788&text_color=e8f5ec&border_color=52b788&hide_border=false&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdussamietahir2006-stack&layout=compact&theme=dark&bg_color=0d1117&title_color=52b788&text_color=c9d1d9&border_color=30363d&langs_count=8&hide=html,css" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abdussamietahir2006-stack&theme=dark&background=07130f&ring=52b788&fire=52b788&currStreakLabel=52b788&sideLabels=e8f5ec&dates=e8f5ec&border=52b788&stroke=52b788)
+![GitHub Streak](https://streak-stats.demolab.com/?user=abdussamietahir2006-stack&theme=github-dark&background=0d1117&ring=52b788&fire=52b788&currStreakLabel=52b788&sideLabels=c9d1d9&dates=c9d1d9&border=30363d)
 
 </div>
 
@@ -85,7 +85,7 @@
 
 ### 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdussamietahir2006-stack&bg_color=07130f&color=52b788&line=52b788&point=ffffff&area=true&area_color=52b788&hide_border=false&border_color=52b788)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdussamietahir2006-stack&bg_color=0d1117&color=52b788&line=52b788&point=ffffff&area=true&area_color=52b788&hide_border=false&border_color=30363d)
 
 ---
 
