@@ -59,15 +59,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdussamietahir2006-stack&show_icons=true&theme=dark&bg_color=0d1117&title_color=52b788&icon_color=52b788&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true&rank_icon=github" />
+| 🗂️ Repos | ⭐ Focus | 💻 Primary Language | 📍 Location |
+|:---:|:---:|:---:|:---:|
+| Full-Stack Web Apps | Production-grade builds | TypeScript | Pakistan 🇵🇰 |
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdussamietahir2006-stack&layout=compact&theme=dark&bg_color=0d1117&title_color=52b788&text_color=c9d1d9&border_color=30363d&langs_count=8&hide=html,css" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=abdussamietahir2006-stack&theme=github-dark&background=0d1117&ring=52b788&fire=52b788&currStreakLabel=52b788&sideLabels=c9d1d9&dates=c9d1d9&border=30363d)
+![TypeScript](https://img.shields.io/badge/TypeScript-98%25_of_my_code-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Commits](https://img.shields.io/badge/Commits-Growing_daily-52b788?style=flat-square&logo=github&logoColor=white)
+![Open Source](https://img.shields.io/badge/Projects-3_Live_products-52b788?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
@@ -77,15 +75,15 @@
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| **RMAST Portfolio** | Personal studio portfolio & CMS | Next.js · MongoDB · Cloudinary · Framer Motion | [rmast-studio.vercel.app](https://rmast-studio.vercel.app) |
-| **Remotage** | Remote virtual services platform with full admin dashboard | Next.js · MongoDB · JWT | [remotage.com](https://www.remotage.com) |
-| **Mazaya Pharma** | Premium French skincare e-commerce (Topicrem & Novexpert Jordan) | Next.js · Express.js · MongoDB | [mazayapharma.com](https://mazayapharma.com/en) |
+| **RMAST Portfolio** | Personal studio portfolio & CMS with 3D orbital view | Next.js · MongoDB · Cloudinary · Framer Motion | [rmast-studio.vercel.app](https://rmast-studio.vercel.app) |
+| **Remotage** | Remote virtual services platform with full admin dashboard & CMS | Next.js · MongoDB · JWT | [remotage.com](https://www.remotage.com) |
+| **Mazaya Pharma** | Premium French skincare e-commerce — Topicrem & Novexpert Jordan | Next.js · Express.js · MongoDB | [mazayapharma.com](https://mazayapharma.com/en) |
 
 ---
 
 ### 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdussamietahir2006-stack&bg_color=0d1117&color=52b788&line=52b788&point=ffffff&area=true&area_color=52b788&hide_border=false&border_color=30363d)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdussamietahir2006-stack&bg_color=0d1117&color=52b788&line=52b788&point=ffffff&area=true&hide_border=false&border_color=30363d)
 
 ---
 
